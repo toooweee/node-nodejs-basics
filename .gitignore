@@ -1,0 +1,6 @@
+/src/fs/files/
+/src/fs/files_copy/
+.idea
+/src/hash/files/
+/src/streams/files/
+/src/zip/files/
